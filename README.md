@@ -8,6 +8,8 @@
 > 📂 **More Power BI projects:** **[bocardidata.com.br](https://bocardidata.com.br)**
 <!-- portfolio-link:end -->
 
+<p align="center"><img src="Assets/Preview/TheAnatomyOfFear_preview.png" alt="The Anatomy of Fear poster preview" width="560"><br><em>Poster preview (A4 portrait)</em></p>
+
 My entry for the **Halloween Data Visualization Contest 2026** (Microsoft Fabric / Power BI Community). One A4 portrait page, built in Power BI, telling how our fears change from childhood to adulthood, using only the 105 responses of the official survey.
 
 > *We outgrew the monsters. Not the fear.*
